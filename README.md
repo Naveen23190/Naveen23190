@@ -1,30 +1,19 @@
-# Hi, I’m M S Naveen Kumar 👋
+Searchable GitHub profile explorer: enter any username (or open a shareable link like /?user=torvalds) and load the live public GitHub profile — avatar, name, bio, company, location, blog, Twitter, followers/following, public repo count and join date. 2. Profile stats dashboard: total stars, forks, watchers and open issues aggregated from the user's repos, plus a language distribution chart and top-repo highlights. 3. Repository browser: full list of public repos with keyword search, sort (stars / updated / name) and language filter; each repo card shows description, topics, stars, forks and last push, and opens a detail drawer with repo README rendered. 4. Recent activity feed from the public events API (pushes, pull requests, issues, stars, releases, branches) with relative timestamps and commit messages. 5. Visual analytics: GitHub-style commit contribution heatmap built from public event data, language breakdown donut, and a repos-by-stars bar chart. 6. Explore/quick-try row of suggested notable profiles, local recent-search history with one-click re-run, plus loading skeletons, empty state, and clear "user not found" / API rate-limit error states. 7. Polished responsive shadcn/ui design with dark/light theme toggle, keyboard-friendly search, and accessible semantic markup. 8. Note: the app uses GitHub's public REST API in the browser; an optional GitHub token may be requested to raise the hourly API rate limit above the anonymous quota.（multiple choice）
 
-I’m a Full Stack Java Developer who enjoys building real-world applications. I’m currently learning more about Java and AI and working toward becoming a software engineer.
+Select all
 
-- 📍 Bengaluru, India
-- 🌱 Currently learning: Java and AI
-- 🔭 Working on: An e-commerce application
-- 💬 Ask me about: Spring, microservices, and Redis
-- 📫 Email: [ naveenkumar590ms@gmail.com ](mailto: naveenkumar590ms@gmail.com )
+Searchable GitHub profile explorer: enter any username (or open a shareable link like /?user=torvalds) and load the live public GitHub profile — avatar, name, bio, company, location, blog, Twitter, followers/following, public repo count and join date.
 
-## Featured Project
+Profile stats dashboard: total stars, forks, watchers and open issues aggregated from the user's repos, plus a language distribution chart and top-repo highlights.
 
-### E-Commerce Application
+Repository browser: full list of public repos with keyword search, sort (stars / updated / name) and language filter; each repo card shows description, topics, stars, forks and last push, and opens a detail drawer with repo README rendered.
 
-🔗 [View the project on GitHub]( https://github.com/Naveen23190/E-Commerce)
+Recent activity feed from the public events API (pushes, pull requests, issues, stars, releases, branches) with relative timestamps and commit messages.
 
-An e-commerce application for [add a short description of the project].
+Visual analytics: GitHub-style commit contribution heatmap built from public event data, language breakdown donut, and a repos-by-stars bar chart.
 
-Built with: Java · Spring Boot · [add other technologies]
+Explore/quick-try row of suggested notable profiles, local recent-search history with one-click re-run, plus loading skeletons, empty state, and clear "user not found" / API rate-limit error states.
 
-## Skills
+Polished responsive shadcn/ui design with dark/light theme toggle, keyboard-friendly search, and accessible semantic markup.
 
-- Languages: Java · [add other languages]
-- Frameworks and technologies: Spring · Microservices · Redis · [add others]
-- Tools: [add tools you use, such as Git or Docker]
-
-## Connect
-
-📧 [Email me](mailto: naveenkumar590ms@gmail.com )
-
+Note: the app uses GitHub's public REST API in the browser; an optional GitHub token may be requested to raise the hourly API rate limit above the anonymous quota.

@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I’m M S Naveen Kumar 👋
 
-<!--
-**Naveen23190/Naveen23190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Full Stack Java Developer who enjoys building real-world applications. I’m currently learning more about Java and AI and working toward becoming a software engineer.
 
-Here are some ideas to get you started:
+- 📍 Bengaluru, India
+- 🌱 Currently learning: Java and AI
+- 🔭 Working on: An e-commerce application
+- 💬 Ask me about: Spring, microservices, and Redis
+- 📫 Email: [ naveenkumar590ms@gmail.com ](mailto: naveenkumar590ms@gmail.com )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+
+### E-Commerce Application
+
+🔗 [View the project on GitHub]( https://github.com/Naveen23190/E-Commerce)
+
+An e-commerce application for [add a short description of the project].
+
+Built with: Java · Spring Boot · [add other technologies]
+
+## Skills
+
+- Languages: Java · [add other languages]
+- Frameworks and technologies: Spring · Microservices · Redis · [add others]
+- Tools: [add tools you use, such as Git or Docker]
+
+## Connect
+
+📧 [Email me](mailto: naveenkumar590ms@gmail.com )
+

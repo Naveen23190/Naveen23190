@@ -1,30 +1,58 @@
 <div align="center">
 
-# Hi, I'm M S Naveen Kumar 👋
+# M S Naveen Kumar
 
-### Java Full Stack Developer · Spring Boot · React.js
+### Java Full Stack Developer
 
-Building web applications with secure REST APIs and relational databases.
+Java · Spring Boot · React · PostgreSQL
 
-[Portfolio](https://portfolio-rust-ten-25.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/naveen-kumar/) · [GitHub](https://github.com/Naveen23190) · [Email](mailto:naveenkumar590ms@gmail.com)
+[Portfolio](https://portfolio-rust-ten-25.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/naveen-kumar/) &nbsp;·&nbsp; [GitHub](https://github.com/Naveen23190) &nbsp;·&nbsp; [Email](mailto:naveenkumar590ms@gmail.com)
 
-**Open to entry-level Java and Java Full Stack Developer opportunities**
+**Seeking entry-level Java and full-stack development opportunities**
 
 </div>
 
 ---
 
-## About Me
+## Profile
 
-I'm an entry-level Java Full Stack Developer with hands-on experience building web applications using **Java, Spring Boot, Hibernate/JPA, React.js, and PostgreSQL**. My experience includes developing RESTful APIs, implementing JWT authentication and role-based access control, and integrating relational databases.
+Computer Science graduate with hands-on experience developing full-stack applications using **Java, Spring Boot, React, and PostgreSQL**. My project work covers REST API development, relational persistence with Hibernate/JPA, JWT authentication, and role-based authorization with Spring Security.
 
-I enjoy applying object-oriented programming principles to build maintainable applications. I'm seeking an opportunity to contribute to software development projects while growing as a developer.
+I focus on clear application structure, maintainable Java code, and practical workflows—from product browsing and order processing to job applications and employer management.
 
-- 🎓 B.Tech in Computer Science and Engineering, Class of 2025 — **8.69/10 CGPA**.
-- 💻 Built an **E-Commerce Application** and a **Job Portal** using Java and React.
-- 🔐 Hands-on experience with **Spring Security, JWT, and role-based authorization**.
-- 🌱 Familiar with **microservices fundamentals**.
-- 📫 Reach me at **[naveenkumar590ms@gmail.com](mailto:naveenkumar590ms@gmail.com)**.
+## Selected Projects
+
+### E-Commerce Application
+
+A full-stack application for browsing products, managing persistent shopping carts, and placing orders.
+
+**Stack:** Java · Spring Boot · Hibernate/JPA · React · PostgreSQL · Spring Security · JWT
+
+- Developed **15+ REST endpoints** covering authentication, product catalogs, and cart operations.
+- Implemented persistent cart management and order processing backed by PostgreSQL.
+- Used JWT authentication to protect API access and support stateless sessions.
+- Optimized database queries to improve API response times.
+
+<!-- Add direct source and demo links once their exact URLs are available.
+[Source code](E_COMMERCE_REPOSITORY_URL) · [Live demo](E_COMMERCE_DEMO_URL)
+If retaining a percentage improvement, document the baseline, workload, and measurement method in the project README.
+-->
+
+### Job Portal
+
+A full-stack application connecting job seekers and employers through job postings and application management.
+
+**Stack:** Java · Spring Boot · Hibernate/JPA · React · PostgreSQL · Spring Security
+
+- Built a responsive React interface integrated with Spring Boot REST APIs.
+- Implemented profile management, job posting operations, resume submissions, and application status tracking.
+- Enforced role-based access for **Job Seekers, Employers, and Administrators** using Spring Security.
+
+<!-- Add direct source and demo links once their exact URLs are available.
+[Source code](JOB_PORTAL_REPOSITORY_URL) · [Live demo](JOB_PORTAL_DEMO_URL)
+-->
+
+[Browse repositories](https://github.com/Naveen23190?tab=repositories) · [View portfolio](https://portfolio-rust-ten-25.vercel.app/)
 
 ## Technical Skills
 
@@ -33,13 +61,8 @@ I enjoy applying object-oriented programming principles to build maintainable ap
 ![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logoColor=white&labelColor=E76F00)
 ![JavaScript (ES6+)](https://img.shields.io/badge/JavaScript%20%28ES6%2B%29-F7DF1E?style=for-the-badge&logoColor=black&labelColor=F7DF1E)
 
-### Java Technologies
+### Java Platform
 
-![Java 8](https://img.shields.io/badge/Java%208-B45309?style=for-the-badge&logoColor=white&labelColor=B45309)
-![Lambda Expressions](https://img.shields.io/badge/Lambda%20Expressions-7C3AED?style=for-the-badge&logoColor=white&labelColor=7C3AED)
-![Stream API](https://img.shields.io/badge/Stream%20API-0369A1?style=for-the-badge&logoColor=white&labelColor=0369A1)
-![Functional Interfaces](https://img.shields.io/badge/Functional%20Interfaces-BE185D?style=for-the-badge&logoColor=white&labelColor=BE185D)
-![Optional](https://img.shields.io/badge/Optional-0F766E?style=for-the-badge&logoColor=white&labelColor=0F766E)
 ![JDBC](https://img.shields.io/badge/JDBC-9A3412?style=for-the-badge&logoColor=white&labelColor=9A3412)
 ![Servlets](https://img.shields.io/badge/Servlets-4338CA?style=for-the-badge&logoColor=white&labelColor=4338CA)
 ![JSP](https://img.shields.io/badge/JSP-A16207?style=for-the-badge&logoColor=white&labelColor=A16207)
@@ -68,10 +91,9 @@ I enjoy applying object-oriented programming principles to build maintainable ap
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logoColor=white&labelColor=4479A1)
 ![Oracle Database](https://img.shields.io/badge/Oracle%20Database-C74634?style=for-the-badge&logoColor=white&labelColor=C74634)
 
-### APIs, Architecture & Testing
+### APIs & Testing
 
 ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-00897B?style=for-the-badge&logoColor=white&labelColor=00897B)
-![Microservices Fundamentals](https://img.shields.io/badge/Microservices%20Fundamentals-6D28D9?style=for-the-badge&logoColor=white&labelColor=6D28D9)
 ![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logoColor=white&labelColor=25A162)
 
 ### Tools
@@ -83,71 +105,40 @@ I enjoy applying object-oriented programming principles to build maintainable ap
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logoColor=white&labelColor=2C2255)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logoColor=white&labelColor=007ACC)
 
-## Featured Projects
+**Java foundations:** Object-oriented programming, Java 8 features, lambda expressions, Stream API, functional interfaces, and Optional.  
+**Architecture knowledge:** Microservices fundamentals.
 
-### 🛒 E-Commerce Application
+## Experience
 
-**Java · Spring Boot · Hibernate/JPA · React.js · PostgreSQL · Spring Security · JWT**
+### Java Intern | Code Genius Innovations
 
-A full-stack shopping application supporting product browsing, persistent shopping carts, and secure order processing.
+*August 2024 – December 2024*
 
-- Developed **15+ secure RESTful endpoints** for user authentication, product catalogs, and cart operations.
-- Implemented persistent shopping cart management and order processing workflows.
-- Optimized PostgreSQL queries, reducing overall API response times by **15%**.
-- Implemented JWT-based authentication for stateless session management and protected API access.
-
-<!-- Add the exact repository and live demo URLs here when available:
-[Source Code](E_COMMERCE_REPOSITORY_URL) · [Live Demo](E_COMMERCE_DEMO_URL)
--->
-
-### 💼 Job Portal
-
-**Java · Spring Boot · Hibernate/JPA · React.js · PostgreSQL · Spring Security**
-
-A responsive application connecting job seekers with employers, with a React frontend and a Spring Boot backend.
-
-- Developed RESTful APIs for profile management, job postings, resume submissions, and application status tracking.
-- Implemented CRUD operations across the job posting lifecycle.
-- Integrated Spring Security with role-based authorization for **Job Seekers, Employers, and System Administrators**.
-
-<!-- Add the exact repository and live demo URLs here when available:
-[Source Code](JOB_PORTAL_REPOSITORY_URL) · [Live Demo](JOB_PORTAL_DEMO_URL)
--->
-
-**Explore my work:** [GitHub repositories](https://github.com/Naveen23190?tab=repositories) · [Portfolio](https://portfolio-rust-ten-25.vercel.app/)
-
-## Internship Experience
-
-### Java Intern — Code Genius Innovations
-
-**August 2024 – December 2024**
-
-- Developed Java application modules using object-oriented programming principles to improve code organization and maintainability.
-- Implemented JDBC-based database operations for storing, retrieving, and updating relational data.
-- Participated in application debugging, testing, and code improvements.
+- Developed Java application modules using object-oriented programming principles.
+- Implemented JDBC operations to store, retrieve, and update relational data.
+- Contributed to debugging, testing, and code improvements during development.
 
 ## Education
 
-| Qualification | Institution | Period | CGPA |
-| :--- | :--- | :--- | :--- |
-| B.Tech — Computer Science and Engineering | Siddharth Institute of Engineering and Technology, Puttur, Andhra Pradesh | 2021–2025 | **8.69/10** |
-| Intermediate | Vedavyasa Junior College, Narayanavanam, Andhra Pradesh | 2019–2021 | **9.48/10** |
+**B.Tech in Computer Science and Engineering**  
+Siddharth Institute of Engineering and Technology, Puttur, Andhra Pradesh  
+2021–2025 · **CGPA: 8.69/10**
 
-## Certifications
+**Intermediate**  
+Vedavyasa Junior College, Narayanavanam, Andhra Pradesh  
+2019–2021 · **CGPA: 9.48/10**
+
+## Certifications & Training
 
 - **Becoming an Effective Leader** — edX / DOANEX
 - **Claude Code in Action** — Anthropic AI
 - **Oracle Cloud Infrastructure AI** — Oracle
 - **Full Stack Java with AI** — QSpiders, Marathahalli
 
-## Let's Connect
+## Contact
 
-I'm interested in entry-level Java and Java Full Stack Developer roles where I can contribute, learn, and build useful applications.
+For entry-level Java and full-stack development opportunities:
 
-| Channel | Contact |
-| :--- | :--- |
-| Email | [naveenkumar590ms@gmail.com](mailto:naveenkumar590ms@gmail.com) |
-| Phone | [+91 934-753-2767](tel:+919347532767) |
-| LinkedIn | [linkedin.com/in/naveen-kumar](https://www.linkedin.com/in/naveen-kumar/) |
-| Portfolio | [portfolio-rust-ten-25.vercel.app](https://portfolio-rust-ten-25.vercel.app/) |
-| GitHub | [github.com/Naveen23190](https://github.com/Naveen23190) |
+**Email:** [naveenkumar590ms@gmail.com](mailto:naveenkumar590ms@gmail.com)  
+**Phone:** [+91 934-753-2767](tel:+919347532767)  
+**LinkedIn:** [linkedin.com/in/naveen-kumar](https://www.linkedin.com/in/naveen-kumar/)

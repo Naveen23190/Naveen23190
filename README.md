@@ -28,17 +28,60 @@ I enjoy applying object-oriented programming principles to build maintainable ap
 
 ## Technical Skills
 
-| Area | Technologies |
-| :--- | :--- |
-| Programming | Java, JavaScript (ES6+) |
-| Java Technologies | Java 8 features: Lambda expressions, Stream API, Functional Interfaces, Optional; JDBC, Servlets, JSP |
-| Backend | Spring Core, Spring MVC, Spring Boot, Hibernate/JPA |
-| Security | Spring Security, JWT, Role-Based Access Control |
-| Frontend | HTML5, CSS3, React.js, Bootstrap, jQuery |
-| Databases | PostgreSQL, MySQL, Oracle Database |
-| APIs & Architecture | RESTful APIs, Microservices fundamentals |
-| Testing | JUnit 5 |
-| Tools | Git, GitHub, Postman, IntelliJ IDEA, Eclipse, VS Code |
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logoColor=white&labelColor=E76F00)
+![JavaScript (ES6+)](https://img.shields.io/badge/JavaScript%20%28ES6%2B%29-F7DF1E?style=for-the-badge&logoColor=black&labelColor=F7DF1E)
+
+### Java Technologies
+
+![Java 8](https://img.shields.io/badge/Java%208-B45309?style=for-the-badge&logoColor=white&labelColor=B45309)
+![Lambda Expressions](https://img.shields.io/badge/Lambda%20Expressions-7C3AED?style=for-the-badge&logoColor=white&labelColor=7C3AED)
+![Stream API](https://img.shields.io/badge/Stream%20API-0369A1?style=for-the-badge&logoColor=white&labelColor=0369A1)
+![Functional Interfaces](https://img.shields.io/badge/Functional%20Interfaces-BE185D?style=for-the-badge&logoColor=white&labelColor=BE185D)
+![Optional](https://img.shields.io/badge/Optional-0F766E?style=for-the-badge&logoColor=white&labelColor=0F766E)
+![JDBC](https://img.shields.io/badge/JDBC-9A3412?style=for-the-badge&logoColor=white&labelColor=9A3412)
+![Servlets](https://img.shields.io/badge/Servlets-4338CA?style=for-the-badge&logoColor=white&labelColor=4338CA)
+![JSP](https://img.shields.io/badge/JSP-A16207?style=for-the-badge&logoColor=white&labelColor=A16207)
+
+### Backend & Security
+
+![Spring Core](https://img.shields.io/badge/Spring%20Core-6DB33F?style=for-the-badge&logoColor=white&labelColor=6DB33F)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-15803D?style=for-the-badge&logoColor=white&labelColor=15803D)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-256D1B?style=for-the-badge&logoColor=white&labelColor=256D1B)
+![Hibernate / JPA](https://img.shields.io/badge/Hibernate%20%2F%20JPA-59666C?style=for-the-badge&logoColor=white&labelColor=59666C)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-245B42?style=for-the-badge&logoColor=white&labelColor=245B42)
+![JWT](https://img.shields.io/badge/JWT-9333EA?style=for-the-badge&logoColor=white&labelColor=9333EA)
+![Role-Based Access Control](https://img.shields.io/badge/Role--Based%20Access%20Control-9F1239?style=for-the-badge&logoColor=white&labelColor=9F1239)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logoColor=white&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logoColor=white&labelColor=1572B6)
+![React.js](https://img.shields.io/badge/React.js-087EA4?style=for-the-badge&logoColor=white&labelColor=087EA4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logoColor=white&labelColor=7952B3)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logoColor=white&labelColor=0769AD)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logoColor=white&labelColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logoColor=white&labelColor=4479A1)
+![Oracle Database](https://img.shields.io/badge/Oracle%20Database-C74634?style=for-the-badge&logoColor=white&labelColor=C74634)
+
+### APIs, Architecture & Testing
+
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-00897B?style=for-the-badge&logoColor=white&labelColor=00897B)
+![Microservices Fundamentals](https://img.shields.io/badge/Microservices%20Fundamentals-6D28D9?style=for-the-badge&logoColor=white&labelColor=6D28D9)
+![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logoColor=white&labelColor=25A162)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logoColor=white&labelColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logoColor=white&labelColor=181717)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logoColor=white&labelColor=FF6C37)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-D81B60?style=for-the-badge&logoColor=white&labelColor=D81B60)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logoColor=white&labelColor=2C2255)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logoColor=white&labelColor=007ACC)
 
 ## Featured Projects
 

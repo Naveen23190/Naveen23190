@@ -1,10 +1,10 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F3D2E,100:00FF9C&height=220&section=header&text=M%20S%20Naveen%20Kumar&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descSize=20&descAlignY=60" alt="M S Naveen Kumar - Java Full Stack Developer" width="100%"/> <a href="https://github.com/Naveen23190"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&background=00000000&center=true&vCenter=true&width=720&height=50&lines=Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+PostgreSQL;REST+APIs+%C2%B7+JWT+%C2%B7+Role-Based+Access+Control;Seeking+entry-level+Java+and+full-stack+roles" alt="Typing animation" /> </a> <br/>
+<div align="center"> <img src="assets/header.svg" alt="M S Naveen Kumar - Java Full Stack Developer" width="100%"/> <br/>
 
 Portfolio LinkedIn GitHub Email
 
 Seeking entry-level Java and full-stack development opportunities
 
-</div>
+<img src="assets/skills-marquee.svg" alt="Scrolling list of technologies: Java, Spring Boot, Hibernate, Spring Security, JWT, REST APIs, React, PostgreSQL" width="100%"/> </div> <p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
 ~/profile  🖥️
 bash
 naveen@dev:~$ cat profile.txt
@@ -22,6 +22,7 @@ experience:  Java Intern, Code Genius Innovations (Aug 2024 - Dec 2024)
 education:   B.Tech CSE, 8.69/10 CGPA (2021-2025)
 location:    Bangalore, India
 status:      open to entry-level Java / full-stack roles
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
 ~/skills  ⚙️
 bash
 naveen@dev:~$ ls -la skills/        # click a folder below to expand
@@ -57,11 +58,12 @@ Show Image Show Image
 
 Show Image Show Image Show Image Show Image Show Image Show Image
 
-</details>
+</details> <p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
 ~/projects  🚀
 bash
 naveen@dev:~$ ls projects/
 e-commerce-application/    job-portal/
+<p align="center"><img src="assets/build-log.svg" alt="Animated terminal showing a successful Maven build" width="100%"/></p>
 🛒 E-Commerce Application
 
 A full-stack application for browsing products, managing persistent shopping carts, and placing orders.
@@ -88,6 +90,7 @@ Enforced role-based access for Job Seekers, Employers, and Administrators using 
 
 Browse repositories · View portfolio
 
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
 ~/experience  💼
 bash
 naveen@dev:~$ git log --oneline experience/
@@ -97,17 +100,18 @@ Java Intern · Code Genius Innovations August 2024 – December 2024
 Developed Java application modules using object-oriented programming principles.
 Implemented JDBC operations to store, retrieve, and update relational data.
 Contributed to debugging, testing, and code improvements during development.
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
 ~/education  🎓
 Qualification	Institution	Years	CGPA
 B.Tech in Computer Science and Engineering	Siddharth Institute of Engineering and Technology, Puttur, Andhra Pradesh	2021 – 2025	8.69 / 10
 Intermediate	Vedavyasa Junior College, Narayanavanam, Andhra Pradesh	2019 – 2021	9.48 / 10
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
 ~/certifications  📜
 Becoming an Effective Leader: edX / DOANEX
 Claude Code in Action: Anthropic AI
 Oracle Cloud Infrastructure AI: Oracle
 Full Stack Java with AI: QSpiders, Marathahalli
-~/github-stats  📊
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Naveen23190&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" alt="GitHub stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen23190&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C" alt="Top languages" /> </div>
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"/></p>
 ~/contact  📬
 bash
 naveen@dev:~$ ./contact.sh --role "entry-level Java / full-stack"
@@ -118,4 +122,4 @@ Email: naveenkumar590ms@gmail.com
 Phone: +91 934-753-2767
 LinkedIn: linkedin.com/in/naveen-kumar
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:0F3D2E,100:0D1117&height=120&section=footer&reversal=true" alt="" width="100%"/> </div>
+<p align="center"><img src="assets/footer.svg" alt="Thanks for visiting" width="100%"/></p>

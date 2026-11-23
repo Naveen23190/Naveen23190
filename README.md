@@ -210,6 +210,21 @@ A full-stack application connecting job seekers and employers through job postin
 
 ---
 
+## GitHub Stats &nbsp;📊
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Naveen23190&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" alt="GitHub stats: total commits, stars, pull requests and issues" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen23190&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C" alt="Most used languages on GitHub" width="320"/>
+
+<img src="https://streak-stats.demolab.com?user=Naveen23190&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="GitHub contribution streak and total contributions" width="420"/>
+
+<sub>Live stats for <a href="https://github.com/Naveen23190">github.com/Naveen23190</a>. The numbers update automatically as you commit.</sub>
+
+</div>
+
+---
+
 ## Contact &nbsp;📬
 
 For entry-level Java and full-stack development opportunities:

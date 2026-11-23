@@ -5,79 +5,63 @@ Portfolio LinkedIn GitHub Email
 Seeking entry-level Java and full-stack development opportunities
 
 </div>
-bash
-naveen@dev:~$ whoami
-M S Naveen Kumar  -  Java Full Stack Developer
-
-naveen@dev:~$ echo $STACK
-Java · Spring Boot · React · PostgreSQL
-
-naveen@dev:~$ echo $STATUS
-Open to entry-level Java & full-stack roles
-~/profile  🖥️
-bash
-naveen@dev:~$ cat profile.txt
+Profile  🖥️
 
 Computer Science graduate with hands-on experience developing full-stack applications using Java, Spring Boot, React, and PostgreSQL. My project work covers REST API development, relational persistence with Hibernate/JPA, JWT authentication, and role-based authorization with Spring Security.
 
 I focus on clear application structure, maintainable Java code, and practical workflows, from product browsing and order processing to job applications and employer management.
 
-yaml
-name:        M S Naveen Kumar
-role:        Java Full Stack Developer
-stack:       [Java, Spring Boot, Hibernate/JPA, React, PostgreSQL]
-focus:       [REST APIs, JWT Authentication, Role-Based Access Control]
-experience:  Java Intern, Code Genius Innovations (Aug 2024 - Dec 2024)
-education:   B.Tech CSE, 8.69/10 CGPA (2021-2025)
-location:    Bangalore, India
-status:      open to entry-level Java / full-stack roles
-~/skills  ⚙️
-bash
-naveen@dev:~$ ls -la skills/        # click a folder below to expand
-<details open> <summary><b>📁 programming-languages/</b></summary> <br>
+	
+Primary stack	Java, Spring Boot, Hibernate/JPA, React, PostgreSQL
+Strengths	REST APIs, JWT authentication, role-based access control
+Experience	Java Intern, Code Genius Innovations (Aug 2024 – Dec 2024)
+Education	B.Tech CSE, CGPA 8.69/10 (2021 – 2025)
+Based in	Bangalore, India
+Technical Skills  ⚙️
+
+Click any category below to expand or collapse it.
+
+<details open> <summary><b>☕ Programming Languages</b></summary> <br>
 
 Show Image Show Image
 
-</details> <details open> <summary><b>📁 java-platform/</b></summary> <br>
+</details> <details open> <summary><b>🧩 Java Platform</b></summary> <br>
 
 Show Image Show Image Show Image
 
 Java foundations: Object-oriented programming, Java 8 features, lambda expressions, Stream API, functional interfaces, and Optional.
 
-</details> <details open> <summary><b>📁 backend-and-security/</b></summary> <br>
+</details> <details open> <summary><b>🍃 Backend & Security</b></summary> <br>
 
 Show Image Show Image Show Image Show Image Show Image Show Image Show Image
 
 Architecture knowledge: Microservices fundamentals.
 
-</details> <details> <summary><b>📁 frontend/</b></summary> <br>
+</details> <details> <summary><b>🎨 Frontend</b></summary> <br>
 
 Show Image Show Image Show Image Show Image Show Image
 
-</details> <details> <summary><b>📁 databases/</b></summary> <br>
+</details> <details> <summary><b>🗄️ Databases</b></summary> <br>
 
 Show Image Show Image Show Image
 
-</details> <details> <summary><b>📁 apis-and-testing/</b></summary> <br>
+</details> <details> <summary><b>🔌 APIs & Testing</b></summary> <br>
 
 Show Image Show Image
 
-</details> <details> <summary><b>📁 tools/</b></summary> <br>
+</details> <details> <summary><b>🛠️ Tools</b></summary> <br>
 
 Show Image Show Image Show Image Show Image Show Image Show Image
 
 </details>
-~/projects  🚀
-bash
-naveen@dev:~$ ls projects/
-e-commerce-application/    job-portal/
+Selected Projects  🚀
 🛒 E-Commerce Application
 
 A full-stack application for browsing products, managing persistent shopping carts, and placing orders.
 
 Stack: Java · Spring Boot · Hibernate/JPA · React · PostgreSQL · Spring Security · JWT
 
-<details open> <summary><b>$ cat e-commerce/HIGHLIGHTS.md</b></summary> <br>
+<details open> <summary><b>Highlights</b></summary> <br>
 Developed 15+ REST endpoints covering authentication, product catalogs, and cart operations.
 Implemented persistent cart management and order processing backed by PostgreSQL.
 Used JWT authentication to protect API access and support stateless sessions.
@@ -89,7 +73,7 @@ A full-stack application connecting job seekers and employers through job postin
 
 Stack: Java · Spring Boot · Hibernate/JPA · React · PostgreSQL · Spring Security
 
-<details open> <summary><b>$ cat job-portal/HIGHLIGHTS.md</b></summary> <br>
+<details open> <summary><b>Highlights</b></summary> <br>
 Built a responsive React interface integrated with Spring Boot REST APIs.
 Implemented profile management, job posting operations, resume submissions, and application status tracking.
 Enforced role-based access for Job Seekers, Employers, and Administrators using Spring Security.
@@ -97,33 +81,23 @@ Enforced role-based access for Job Seekers, Employers, and Administrators using 
 
 Browse repositories · View portfolio
 
-text
-naveen@dev:~$ mvn clean install
-[INFO] Scanning for projects...
-[INFO] Compiling Java sources · Spring Boot · Hibernate/JPA
-[INFO] Running JUnit 5 tests ........ PASSED
-[INFO] BUILD SUCCESS  ✔  ready to ship
-~/experience  💼
-bash
-naveen@dev:~$ git log --oneline experience/
+Experience  💼
 
 Java Intern · Code Genius Innovations August 2024 – December 2024
 
 Developed Java application modules using object-oriented programming principles.
 Implemented JDBC operations to store, retrieve, and update relational data.
 Contributed to debugging, testing, and code improvements during development.
-~/education  🎓
+Education  🎓
 Qualification	Institution	Years	CGPA
 B.Tech in Computer Science and Engineering	Siddharth Institute of Engineering and Technology, Puttur, Andhra Pradesh	2021 – 2025	8.69 / 10
 Intermediate	Vedavyasa Junior College, Narayanavanam, Andhra Pradesh	2019 – 2021	9.48 / 10
-~/certifications  📜
+Certifications & Training  📜
 Becoming an Effective Leader: edX / DOANEX
 Claude Code in Action: Anthropic AI
 Oracle Cloud Infrastructure AI: Oracle
 Full Stack Java with AI: QSpiders, Marathahalli
-~/contact  📬
-bash
-naveen@dev:~$ ./contact.sh --role "entry-level Java / full-stack"
+Contact  📬
 
 For entry-level Java and full-stack development opportunities:
 
